@@ -1,0 +1,180 @@
+{
+  "Ambikapathy": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Ambikapathy/ambikapathy.jpg",
+    "releaseDate": "21 June 2013",
+    "songs": [
+      {
+        "title": "Ambikapathy",
+        "artist": "A. R. Rahman",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Ambikapathy/Ambikapathy.mp3"
+      },
+      {
+        "title": "Unnal Unnal",
+        "artist": "A. R. Rahman",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Ambikapathy/unnal%20unnal.mp3"
+      }
+    ]
+  },
+  "Anegan": {
+    "artistName": "Harris Jayaraj",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Anegan/anegan.jpg",
+    "releaseDate": "10 January 2015",
+    "songs": [
+      {
+        "title": "Roja Kadale",
+        "artist": "Shankar Mahadevan",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Anegan/Roja-Kadale.mp3"
+      },
+      {
+        "title": "Thodu Vaanam",
+        "artist": "Harris Jayaraj",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Anegan/Thodu-Vaanam.mp3"
+      }
+    ]
+  },
+  "3": {
+    "artistName": "Anirudh Ravichander",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/3/3.jpg",
+    "releaseDate": "23 March 2012",
+    "songs": [
+      {
+        "title": "Nee Paartha",
+        "artist": "Dhanush",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/3/nee%20partha.mp3"
+      }
+    ]
+  },
+  "OK Kanmani": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/OK%20Kanmani/ok_kanmani.jpg",
+    "releaseDate": "4 April 2015",
+    "songs": [
+      {
+        "title": "Mental Manadhil",
+        "artist": "A. R. Rahman",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/OK%20Kanmani/mental_manadhil.mp3"
+      }
+    ]
+  },
+  "Enai Noki Paayum Thota": {
+    "artistName": "Darbuka Siva",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Enai%20Noki%20Paayum%20Thota/enpt.jpg",
+    "releaseDate": "6 September 2019",
+    "songs": [
+      {
+        "title": "Maruvaarthai",
+        "artist": "Sid Sriram",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Enai%20Noki%20Paayum%20Thota/maruvaarthai.mp3"
+      }
+    ]
+  },
+  "Alaipayuthey": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Alaipayuthey/alaipayuthey.jpg",
+    "releaseDate": "14 April 2000",
+    "songs": [
+      {
+        "title": "Pachai Nirame",
+        "artist": "Hariharan",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Alaipayuthey/pachai_nirame.mp3"
+      }
+    ]
+  },
+  "Roja": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Roja/roja.jpg",
+    "releaseDate": "15 August 1992",
+    "songs": [
+      {
+        "title": "Kadhal Rojave",
+        "artist": "S. P. Balasubrahmanyam",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Roja/kadhal_rojave.mp3"
+      }
+    ]
+  },
+  "Dil Se": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Dil%20Se/dil_se.jpg",
+    "releaseDate": "21 August 1998",
+    "songs": [
+      {
+        "title": "Jiya Jale",
+        "artist": "Lata Mangeshkar",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Dil%20Se/jiya_jale.mp3"
+      }
+    ]
+  },
+  "96": {
+    "artistName": "Govind Vasantha",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/96/96.jpg",
+    "releaseDate": "24 September 2018",
+    "songs": [
+      {
+        "title": "Kaathalae Kaathalae",
+        "artist": "Chinmayi, Govind Vasantha",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/96/kaathalae_kaathalae.mp3"
+      }
+    ]
+  },
+  "Vinnaithaandi Varuvaayaa": {
+    "artistName": "A. R. Rahman",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Vinnaithaandi%20Varuvaayaa/vtv.jpg",
+    "releaseDate": "3 February 2010",
+    "songs": [
+      {
+        "title": "Hosanna",
+        "artist": "Vijay Prakash",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Vinnaithaandi%20Varuvaayaa/hosanna.mp3"
+      }
+    ]
+  },
+  "Mouna Ragam": {
+    "artistName": "Ilaiyaraaja",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/Mouna%20Ragam/mouna_ragam.jpg",
+    "releaseDate": "15 August 1986",
+    "songs": [
+      {
+        "title": "Mandram Vantha",
+        "artist": "S. P. Balasubrahmanyam",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/Mouna%20Ragam/mandram_vantha.mp3"
+      }
+    ]
+  },
+  "LoFi Tamil 1": {
+    "artistName": "LoFi Producer",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Tamil%201/lofi1.jpg",
+    "releaseDate": "2023",
+    "songs": [
+      {
+        "title": "LoFi Chill 1",
+        "artist": "LoFi Artist",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Tamil%201/lofi_chill1.mp3"
+      }
+    ]
+  },
+  "LoFi Tamil 2": {
+    "artistName": "LoFi Producer",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Tamil%202/lofi2.jpg",
+    "releaseDate": "2023",
+    "songs": [
+      {
+        "title": "LoFi Chill 2",
+        "artist": "LoFi Artist",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Tamil%202/lofi_chill2.mp3"
+      }
+    ]
+  },
+  "LoFi Hits": {
+    "artistName": "Various Artists",
+    "albumImage": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Hits/lofi_hits.jpg",
+    "releaseDate": "2023",
+    "songs": [
+      {
+        "title": "LoFi Sunset",
+        "artist": "LoFi Star",
+        "url": "https://github.com/Firedrago47/vibetune_songs/raw/main/LoFi%20Hits/lofi_sunset.mp3"
+      }
+    ]
+  }
+}
